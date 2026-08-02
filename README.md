@@ -1,6 +1,6 @@
-# 🤖 Jarvis — AI Voice Assistant
+# 🤖 ved — AI Voice Assistant
 
-> A full-stack AI-powered voice assistant inspired by Iron Man's J.A.R.V.I.S, built with Python, Flask, and GPT-4o-mini. Supports voice commands, natural language AI responses, and a sleek futuristic web interface.
+> A full-stack AI-powered voice assistant inspired by Iron Man's ved, built with Python, Flask, and GPT-4o-mini. Supports voice commands, natural language AI responses, and a sleek futuristic web interface.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.x-black?style=flat-square&logo=flask)
@@ -12,13 +12,13 @@
 
 ## 🌐 Live Demo
 
-🔗 [https://jarvis-python-project.onrender.com/](https://jarvis-python-project.onrender.com/)
+🔗 [https://ved-python-project.onrender.com/](https://ved-python-project.onrender.com/)
 
 ---
 
 ## 📸 Preview
 
-![Jarvis Screenshot](https://i.imgur.com/placeholder.png)
+![ved Screenshot](https://i.imgur.com/placeholder.png)
 
 > *Futuristic HUD-style interface with arc reactor animation, voice waveform, and real-time AI responses.*
 
@@ -173,7 +173,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👨‍💻 Author
 
-**Smit** — Cloud Infrastructure & Full Stack Developer
+**ved** — Cloud Infrastructure & Full Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/coding-smit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/smit-patel-d69)
