@@ -76,8 +76,8 @@ ved-ai-voice-assistant/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/coding-smit/jarvis_python_project.git
-cd jarvis_python_project
+git clone https://github.com/coding-ved/ved_python_project.git
+cd ved_python_project
 ```
 
 **2. Install dependencies**
