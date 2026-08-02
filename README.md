@@ -53,7 +53,7 @@
 ## 📁 Project Structure
 
 ```
-jarvis-ai-voice-assistant/
+ved-ai-voice-assistant/
 ├── app.py                 # Flask backend — API routes and AI logic
 ├── requirements.txt       # Python dependencies
 ├── Procfile               # Render deployment config
